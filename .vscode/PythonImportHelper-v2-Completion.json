@@ -1,0 +1,678 @@
+[
+    {
+        "label": "boto3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pymongo",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "scrapy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "scrapy",
+        "description": "scrapy",
+        "detail": "scrapy",
+        "documentation": {}
+    },
+    {
+        "label": "signals",
+        "importPath": "scrapy",
+        "description": "scrapy",
+        "isExtraImport": true,
+        "detail": "scrapy",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "ChocolateProduct",
+        "importPath": "scrap_tests.items",
+        "description": "scrap_tests.items",
+        "isExtraImport": true,
+        "detail": "scrap_tests.items",
+        "documentation": {}
+    },
+    {
+        "label": "LmeItem",
+        "importPath": "scrap_tests.items",
+        "description": "scrap_tests.items",
+        "isExtraImport": true,
+        "detail": "scrap_tests.items",
+        "documentation": {}
+    },
+    {
+        "label": "QuoteItem",
+        "importPath": "scrap_tests.items",
+        "description": "scrap_tests.items",
+        "isExtraImport": true,
+        "detail": "scrap_tests.items",
+        "documentation": {}
+    },
+    {
+        "label": "ChocolateProductLoader",
+        "importPath": "scrap_tests.loaders",
+        "description": "scrap_tests.loaders",
+        "isExtraImport": true,
+        "detail": "scrap_tests.loaders",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "ChromeDriverManager",
+        "importPath": "webdriver_manager.chrome",
+        "description": "webdriver_manager.chrome",
+        "isExtraImport": true,
+        "detail": "webdriver_manager.chrome",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "ItemLoader",
+        "importPath": "scrapy.loader",
+        "description": "scrapy.loader",
+        "isExtraImport": true,
+        "detail": "scrapy.loader",
+        "documentation": {}
+    },
+    {
+        "label": "MapCompose",
+        "importPath": "itemloaders.processors",
+        "description": "itemloaders.processors",
+        "isExtraImport": true,
+        "detail": "itemloaders.processors",
+        "documentation": {}
+    },
+    {
+        "label": "TakeFirst",
+        "importPath": "itemloaders.processors",
+        "description": "itemloaders.processors",
+        "isExtraImport": true,
+        "detail": "itemloaders.processors",
+        "documentation": {}
+    },
+    {
+        "label": "is_item",
+        "importPath": "itemadapter",
+        "description": "itemadapter",
+        "isExtraImport": true,
+        "detail": "itemadapter",
+        "documentation": {}
+    },
+    {
+        "label": "ItemAdapter",
+        "importPath": "itemadapter",
+        "description": "itemadapter",
+        "isExtraImport": true,
+        "detail": "itemadapter",
+        "documentation": {}
+    },
+    {
+        "label": "ItemAdapter",
+        "importPath": "itemadapter",
+        "description": "itemadapter",
+        "isExtraImport": true,
+        "detail": "itemadapter",
+        "documentation": {}
+    },
+    {
+        "label": "DropItem",
+        "importPath": "scrapy.exceptions",
+        "description": "scrapy.exceptions",
+        "isExtraImport": true,
+        "detail": "scrapy.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NoCredentialsError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "uploadS3",
+        "kind": 2,
+        "importPath": "scrap_tests.spiders.aws.s3_upload",
+        "description": "scrap_tests.spiders.aws.s3_upload",
+        "peekOfCode": "def uploadS3(download_directory):\n    # Load environment variables from .env file\n    load_dotenv()\n    # AWS S3\n    aws_access_key = os.getenv('AWS_ACCESS_KEY')\n    aws_secret_key = os.getenv('AWS_SECRET_KEY')\n    bucket_name = os.getenv('AWS_BUCKET')\n    # Wait for the download to complete (you can adjust the wait time as needed)\n    max_wait_time = 60  # Maximum wait time in seconds\n    interval = 1  # Check every 1 second",
+        "detail": "scrap_tests.spiders.aws.s3_upload",
+        "documentation": {}
+    },
+    {
+        "label": "cluster_uri",
+        "kind": 5,
+        "importPath": "scrap_tests.spiders.database.mongo_connect",
+        "description": "scrap_tests.spiders.database.mongo_connect",
+        "peekOfCode": "cluster_uri = f\"mongodb+srv://ewarenet_user:{os.getenv('MONGO_PASS')}@cluster0.marvopk.mongodb.net/?retryWrites=true&w=majority\"\n# Create a MongoDB client\nclient = pymongo.MongoClient(cluster_uri)",
+        "detail": "scrap_tests.spiders.database.mongo_connect",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "scrap_tests.spiders.database.mongo_connect",
+        "description": "scrap_tests.spiders.database.mongo_connect",
+        "peekOfCode": "client = pymongo.MongoClient(cluster_uri)",
+        "detail": "scrap_tests.spiders.database.mongo_connect",
+        "documentation": {}
+    },
+    {
+        "label": "ChocolateSpider",
+        "kind": 6,
+        "importPath": "scrap_tests.spiders.chocolate",
+        "description": "scrap_tests.spiders.chocolate",
+        "peekOfCode": "class ChocolateSpider(scrapy.Spider):\n    # override global settings for this spider\n    custom_settings = {\n        \"MONGO_URI\": f\"mongodb+srv://ewarenet_user:{os.getenv('MONGO_PASS')}@cluster0.marvopk.mongodb.net/?retryWrites=true&w=majority\",\n        \"MONGO_DB\": \"ewarenet\",\n        \"ITEM_PIPELINES\": {\n            'scrap_tests.pipelines.PriceToUSDPipeline': 100,\n            'scrap_tests.pipelines.DuplicatesPipeline': 200,\n            'scrap_tests.pipelines.MongoDBPipeline': 300\n        }",
+        "detail": "scrap_tests.spiders.chocolate",
+        "documentation": {}
+    },
+    {
+        "label": "QuotesSpider",
+        "kind": 6,
+        "importPath": "scrap_tests.spiders.dynamic_spider",
+        "description": "scrap_tests.spiders.dynamic_spider",
+        "peekOfCode": "class QuotesSpider(scrapy.Spider):\n    name = \"dynamic_spider\"\n    start_urls = [\n        \"http://quotes.toscrape.com/js/\",\n    ]\n    def start_requests(self):\n        options = webdriver.ChromeOptions()\n        options.add_argument('--no-sandbox')\n        options.add_argument('--disable-dev-shm-usage')\n        chrome_options = webdriver.ChromeOptions()",
+        "detail": "scrap_tests.spiders.dynamic_spider",
+        "documentation": {}
+    },
+    {
+        "label": "LmeSpider",
+        "kind": 6,
+        "importPath": "scrap_tests.spiders.lme",
+        "description": "scrap_tests.spiders.lme",
+        "peekOfCode": "class LmeSpider(scrapy.Spider):\n    name = \"lme_spider\"\n    # allowed_domains = [\"lme.com\"]\n    start_urls = [\n        \"https://google.com\",\n        \"https://www.lme.com/en/news\"\n    ]\n    download_directory = \"/Volumes/macWork/Labs/python/scrap_tests/scrap_tests/spiders/downloads\"\n    # add news items\n    def addNews(self, news):",
+        "detail": "scrap_tests.spiders.lme",
+        "documentation": {}
+    },
+    {
+        "label": "LmeJSSpider",
+        "kind": 6,
+        "importPath": "scrap_tests.spiders.lme_js",
+        "description": "scrap_tests.spiders.lme_js",
+        "peekOfCode": "class LmeJSSpider(scrapy.Spider):\n    name = \"lme_js\"\n    # override global settings for this spider\n    custom_settings = {\n        \"DOWNLOAD_HANDLERS\": {\n            \"http\": \"scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler\",\n            \"https\": \"scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler\",\n        },\n        \"PLAYWRIGHT_LAUNCH_OPTIONS\": {\n            \"headless\": False,",
+        "detail": "scrap_tests.spiders.lme_js",
+        "documentation": {}
+    },
+    {
+        "label": "QuotesSpider",
+        "kind": 6,
+        "importPath": "scrap_tests.spiders.static_spider",
+        "description": "scrap_tests.spiders.static_spider",
+        "peekOfCode": "class QuotesSpider(scrapy.Spider):\n    name = \"static_spider\"\n    start_urls = [\n        \"http://quotes.toscrape.com\",\n    ]\n    def start_requests(self):\n        for url in self.start_urls:\n            yield scrapy.Request(url, self.parse)\n    def parse(self, response):\n        elements = response.css('.quote')",
+        "detail": "scrap_tests.spiders.static_spider",
+        "documentation": {}
+    },
+    {
+        "label": "ChocolateProduct",
+        "kind": 6,
+        "importPath": "scrap_tests.items",
+        "description": "scrap_tests.items",
+        "peekOfCode": "class ChocolateProduct(scrapy.Item):\n    name = scrapy.Field()\n    price = scrapy.Field()\n    url = scrapy.Field()\n    description = scrapy.Field()\nclass QuoteItem(scrapy.Item):\n    quote = scrapy.Field()\n    author = scrapy.Field()\n    tags = scrapy.Field()\nclass LmeNewsItem(scrapy.Item):",
+        "detail": "scrap_tests.items",
+        "documentation": {}
+    },
+    {
+        "label": "QuoteItem",
+        "kind": 6,
+        "importPath": "scrap_tests.items",
+        "description": "scrap_tests.items",
+        "peekOfCode": "class QuoteItem(scrapy.Item):\n    quote = scrapy.Field()\n    author = scrapy.Field()\n    tags = scrapy.Field()\nclass LmeNewsItem(scrapy.Item):\n    title = scrapy.Field()\n    file = scrapy.Field()\n    published = scrapy.Field()\n    scraped = scrapy.Field()\n    exchange = scrapy.Field()",
+        "detail": "scrap_tests.items",
+        "documentation": {}
+    },
+    {
+        "label": "LmeNewsItem",
+        "kind": 6,
+        "importPath": "scrap_tests.items",
+        "description": "scrap_tests.items",
+        "peekOfCode": "class LmeNewsItem(scrapy.Item):\n    title = scrapy.Field()\n    file = scrapy.Field()\n    published = scrapy.Field()\n    scraped = scrapy.Field()\n    exchange = scrapy.Field()\nclass LmeItem(scrapy.Item):\n    title = scrapy.Field()\n    date = scrapy.Field()\n    file = scrapy.Field()",
+        "detail": "scrap_tests.items",
+        "documentation": {}
+    },
+    {
+        "label": "LmeItem",
+        "kind": 6,
+        "importPath": "scrap_tests.items",
+        "description": "scrap_tests.items",
+        "peekOfCode": "class LmeItem(scrapy.Item):\n    title = scrapy.Field()\n    date = scrapy.Field()\n    file = scrapy.Field()\n    scraped = scrapy.Field()\n    exchange = scrapy.Field()",
+        "detail": "scrap_tests.items",
+        "documentation": {}
+    },
+    {
+        "label": "ChocolateProductLoader",
+        "kind": 6,
+        "importPath": "scrap_tests.loaders",
+        "description": "scrap_tests.loaders",
+        "peekOfCode": "class ChocolateProductLoader(ItemLoader):\n    default_output_processor = TakeFirst()\n    price_in = MapCompose(lambda x : x.split('£')[-1])\n    url_in = MapCompose( lambda x : 'https://www.chocolate.co.uk' + x)",
+        "detail": "scrap_tests.loaders",
+        "documentation": {}
+    },
+    {
+        "label": "ScrapTestsSpiderMiddleware",
+        "kind": 6,
+        "importPath": "scrap_tests.middlewares",
+        "description": "scrap_tests.middlewares",
+        "peekOfCode": "class ScrapTestsSpiderMiddleware:\n    # Not all methods need to be defined. If a method is not defined,\n    # scrapy acts as if the spider middleware does not modify the\n    # passed objects.\n    @classmethod\n    def from_crawler(cls, crawler):\n        # This method is used by Scrapy to create your spiders.\n        s = cls()\n        crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)\n        return s",
+        "detail": "scrap_tests.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "ScrapTestsDownloaderMiddleware",
+        "kind": 6,
+        "importPath": "scrap_tests.middlewares",
+        "description": "scrap_tests.middlewares",
+        "peekOfCode": "class ScrapTestsDownloaderMiddleware:\n    # Not all methods need to be defined. If a method is not defined,\n    # scrapy acts as if the downloader middleware does not modify the\n    # passed objects.\n    @classmethod\n    def from_crawler(cls, crawler):\n        # This method is used by Scrapy to create your spiders.\n        s = cls()\n        crawler.signals.connect(s.spider_opened, signal=signals.spider_opened)\n        return s",
+        "detail": "scrap_tests.middlewares",
+        "documentation": {}
+    },
+    {
+        "label": "ScrapTestsPipeline",
+        "kind": 6,
+        "importPath": "scrap_tests.pipelines",
+        "description": "scrap_tests.pipelines",
+        "peekOfCode": "class ScrapTestsPipeline:\n    def process_item(self, item, spider):\n        return item\n# price to usd\nclass PriceToUSDPipeline:\n    gbpToUsdRate = 1.3\n    def process_item(self, item, spider):\n        adapter = ItemAdapter(item)\n        if adapter.get('price'):\n            floatPrice = float(adapter['price'])",
+        "detail": "scrap_tests.pipelines",
+        "documentation": {}
+    },
+    {
+        "label": "PriceToUSDPipeline",
+        "kind": 6,
+        "importPath": "scrap_tests.pipelines",
+        "description": "scrap_tests.pipelines",
+        "peekOfCode": "class PriceToUSDPipeline:\n    gbpToUsdRate = 1.3\n    def process_item(self, item, spider):\n        adapter = ItemAdapter(item)\n        if adapter.get('price'):\n            floatPrice = float(adapter['price'])\n            adapter['price'] = round(floatPrice * self.gbpToUsdRate, 2)\n            return item\n        else:\n            raise DropItem(f\"Missing Price in {item}\")",
+        "detail": "scrap_tests.pipelines",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicatesPipeline",
+        "kind": 6,
+        "importPath": "scrap_tests.pipelines",
+        "description": "scrap_tests.pipelines",
+        "peekOfCode": "class DuplicatesPipeline:\n    def __init__(self):\n        self.names_seen = set()\n    def process_item(self, item, spider):\n        adapter = ItemAdapter(item)\n        if(adapter['name'] in self.names_seen):\n            raise DropItem(f\"duplicate item found: {item!r}\")\n        else:\n            self.names_seen.add(adapter['name'])\n            return item",
+        "detail": "scrap_tests.pipelines",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDBPipeline",
+        "kind": 6,
+        "importPath": "scrap_tests.pipelines",
+        "description": "scrap_tests.pipelines",
+        "peekOfCode": "class MongoDBPipeline:\n    collection_name = \"products\"\n    def __init__(self, mongo_uri, mongo_db):\n        self.mongo_uri = mongo_uri\n        self.mongo_db = mongo_db\n    @classmethod\n    def from_crawler(cls, crawler):\n        return cls(\n            mongo_uri = crawler.settings.get(\"MONGO_URI\"),\n            mongo_db = crawler.settings.get(\"MONGO_DB\"),",
+        "detail": "scrap_tests.pipelines",
+        "documentation": {}
+    },
+    {
+        "label": "S3Pipeline",
+        "kind": 6,
+        "importPath": "scrap_tests.pipelines",
+        "description": "scrap_tests.pipelines",
+        "peekOfCode": "class S3Pipeline:\n    def __init__(self, aws_access_key_id, aws_secret_access_key, aws_region_name, aws_s3_bucket_name):\n        self.aws_access_key_id = aws_access_key_id\n        self.aws_secret_access_key = aws_secret_access_key\n        self.aws_region_name = aws_region_name\n        self.aws_s3_bucket_name = aws_s3_bucket_name\n    @classmethod\n    def from_crawler(cls, crawler):\n        return cls(\n            aws_access_key_id = os.getenv('AWS_ACCESS_KEY'),",
+        "detail": "scrap_tests.pipelines",
+        "documentation": {}
+    },
+    {
+        "label": "LOG_LEVEL",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "LOG_LEVEL = 'WARNING'\n# BOT_NAME = \"scrap_tests\"\nSPIDER_MODULES = [\"scrap_tests.spiders\"]\nNEWSPIDER_MODULE = \"scrap_tests.spiders\"\n# Crawl responsibly by identifying yourself (and your website) on the user-agent\n# USER_AGENT = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36\"\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n# CONCURRENT_REQUESTS = 1",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SPIDER_MODULES",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "SPIDER_MODULES = [\"scrap_tests.spiders\"]\nNEWSPIDER_MODULE = \"scrap_tests.spiders\"\n# Crawl responsibly by identifying yourself (and your website) on the user-agent\n# USER_AGENT = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36\"\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n# CONCURRENT_REQUESTS = 1\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "NEWSPIDER_MODULE",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "NEWSPIDER_MODULE = \"scrap_tests.spiders\"\n# Crawl responsibly by identifying yourself (and your website) on the user-agent\n# USER_AGENT = \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36\"\n# Obey robots.txt rules\nROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n# CONCURRENT_REQUESTS = 1\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROBOTSTXT_OBEY",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "ROBOTSTXT_OBEY = True\n# Configure maximum concurrent requests performed by Scrapy (default: 16)\n# CONCURRENT_REQUESTS = 1\n#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs\n# DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:\n#CONCURRENT_REQUESTS_PER_DOMAIN = 16",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#CONCURRENT_REQUESTS",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#CONCURRENT_REQUESTS = 32\n# Configure a delay for requests for the same website (default: 0)\n# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay\n# See also autothrottle settings and docs\n# DOWNLOAD_DELAY = 3\n# The download delay setting will honor only one of:\n#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#CONCURRENT_REQUESTS_PER_DOMAIN",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#CONCURRENT_REQUESTS_PER_DOMAIN = 16\n#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#    \"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\",\n#    \"Accept-Language\": \"en\",",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#CONCURRENT_REQUESTS_PER_IP",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#CONCURRENT_REQUESTS_PER_IP = 16\n# Disable cookies (enabled by default)\n#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#    \"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\",\n#    \"Accept-Language\": \"en\",\n#}",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#COOKIES_ENABLED",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#COOKIES_ENABLED = False\n# Disable Telnet Console (enabled by default)\n#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#    \"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\",\n#    \"Accept-Language\": \"en\",\n#}\n# Enable or disable spider middlewares\n# See https://docs.scrapy.org/en/latest/topics/spider-middleware.html",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#TELNETCONSOLE_ENABLED",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#TELNETCONSOLE_ENABLED = False\n# Override the default request headers:\n#DEFAULT_REQUEST_HEADERS = {\n#    \"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\",\n#    \"Accept-Language\": \"en\",\n#}\n# Enable or disable spider middlewares\n# See https://docs.scrapy.org/en/latest/topics/spider-middleware.html\n#SPIDER_MIDDLEWARES = {\n#    \"scrap_tests.middlewares.ScrapTestsSpiderMiddleware\": 543,",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#DEFAULT_REQUEST_HEADERS",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#DEFAULT_REQUEST_HEADERS = {\n#    \"Accept\": \"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\",\n#    \"Accept-Language\": \"en\",\n#}\n# Enable or disable spider middlewares\n# See https://docs.scrapy.org/en/latest/topics/spider-middleware.html\n#SPIDER_MIDDLEWARES = {\n#    \"scrap_tests.middlewares.ScrapTestsSpiderMiddleware\": 543,\n#}\n# Enable or disable downloader middlewares",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#SPIDER_MIDDLEWARES",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#SPIDER_MIDDLEWARES = {\n#    \"scrap_tests.middlewares.ScrapTestsSpiderMiddleware\": 543,\n#}\n# Enable or disable downloader middlewares\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html\nDOWNLOADER_MIDDLEWARES = {\n   #\"scrap_tests.middlewares.ScrapTestsDownloaderMiddleware\": 543,\n   #'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,\n   #'scrapy_user_agents.middlewares.RandomUserAgentMiddleware': 400\n}",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DOWNLOADER_MIDDLEWARES",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "DOWNLOADER_MIDDLEWARES = {\n   #\"scrap_tests.middlewares.ScrapTestsDownloaderMiddleware\": 543,\n   #'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,\n   #'scrapy_user_agents.middlewares.RandomUserAgentMiddleware': 400\n}\n# Enable or disable extensions\n# See https://docs.scrapy.org/en/latest/topics/extensions.html\n#EXTENSIONS = {\n#    \"scrapy.extensions.telnet.TelnetConsole\": None,\n#}",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#EXTENSIONS",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#EXTENSIONS = {\n#    \"scrapy.extensions.telnet.TelnetConsole\": None,\n#}\n# Configure item pipelines\n# See https://docs.scrapy.org/en/latest/topics/item-pipeline.html\nITEM_PIPELINES = {\n    #'scrap_tests.pipelines.PriceToUSDPipeline': 100,\n    #'scrap_tests.pipelines.DuplicatesPipeline': 200,\n    #'scrap_tests.pipelines.MongoDBPipeline': 300\n    # \"scrap_tests.pipelines.ScrapTestsPipeline\": 300,",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ITEM_PIPELINES",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "ITEM_PIPELINES = {\n    #'scrap_tests.pipelines.PriceToUSDPipeline': 100,\n    #'scrap_tests.pipelines.DuplicatesPipeline': 200,\n    #'scrap_tests.pipelines.MongoDBPipeline': 300\n    # \"scrap_tests.pipelines.ScrapTestsPipeline\": 300,\n}\n# Enable and configure the AutoThrottle extension (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/autothrottle.html\n#AUTOTHROTTLE_ENABLED = True\n# The initial download delay",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_ENABLED",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#AUTOTHROTTLE_ENABLED = True\n# The initial download delay\n#AUTOTHROTTLE_START_DELAY = 5\n# The maximum download delay to be set in case of high latencies\n#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server\n#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_START_DELAY",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#AUTOTHROTTLE_START_DELAY = 5\n# The maximum download delay to be set in case of high latencies\n#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server\n#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_MAX_DELAY",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#AUTOTHROTTLE_MAX_DELAY = 60\n# The average number of requests Scrapy should be sending in parallel to\n# each remote server\n#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings\n#HTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_TARGET_CONCURRENCY",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0\n# Enable showing throttling stats for every response received:\n#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings\n#HTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = \"httpcache\"\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = \"scrapy.extensions.httpcache.FilesystemCacheStorage\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#AUTOTHROTTLE_DEBUG",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#AUTOTHROTTLE_DEBUG = False\n# Enable and configure HTTP caching (disabled by default)\n# See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings\n#HTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = \"httpcache\"\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = \"scrapy.extensions.httpcache.FilesystemCacheStorage\"\n# Set settings whose default value is deprecated to a future-proof value\nREQUEST_FINGERPRINTER_IMPLEMENTATION = \"2.7\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_ENABLED",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#HTTPCACHE_ENABLED = True\n#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = \"httpcache\"\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = \"scrapy.extensions.httpcache.FilesystemCacheStorage\"\n# Set settings whose default value is deprecated to a future-proof value\nREQUEST_FINGERPRINTER_IMPLEMENTATION = \"2.7\"\nTWISTED_REACTOR = \"twisted.internet.asyncioreactor.AsyncioSelectorReactor\"\nFEED_EXPORT_ENCODING = \"utf-8\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_EXPIRATION_SECS",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#HTTPCACHE_EXPIRATION_SECS = 0\n#HTTPCACHE_DIR = \"httpcache\"\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = \"scrapy.extensions.httpcache.FilesystemCacheStorage\"\n# Set settings whose default value is deprecated to a future-proof value\nREQUEST_FINGERPRINTER_IMPLEMENTATION = \"2.7\"\nTWISTED_REACTOR = \"twisted.internet.asyncioreactor.AsyncioSelectorReactor\"\nFEED_EXPORT_ENCODING = \"utf-8\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_DIR",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#HTTPCACHE_DIR = \"httpcache\"\n#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = \"scrapy.extensions.httpcache.FilesystemCacheStorage\"\n# Set settings whose default value is deprecated to a future-proof value\nREQUEST_FINGERPRINTER_IMPLEMENTATION = \"2.7\"\nTWISTED_REACTOR = \"twisted.internet.asyncioreactor.AsyncioSelectorReactor\"\nFEED_EXPORT_ENCODING = \"utf-8\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_IGNORE_HTTP_CODES",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#HTTPCACHE_IGNORE_HTTP_CODES = []\n#HTTPCACHE_STORAGE = \"scrapy.extensions.httpcache.FilesystemCacheStorage\"\n# Set settings whose default value is deprecated to a future-proof value\nREQUEST_FINGERPRINTER_IMPLEMENTATION = \"2.7\"\nTWISTED_REACTOR = \"twisted.internet.asyncioreactor.AsyncioSelectorReactor\"\nFEED_EXPORT_ENCODING = \"utf-8\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "#HTTPCACHE_STORAGE",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "#HTTPCACHE_STORAGE = \"scrapy.extensions.httpcache.FilesystemCacheStorage\"\n# Set settings whose default value is deprecated to a future-proof value\nREQUEST_FINGERPRINTER_IMPLEMENTATION = \"2.7\"\nTWISTED_REACTOR = \"twisted.internet.asyncioreactor.AsyncioSelectorReactor\"\nFEED_EXPORT_ENCODING = \"utf-8\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REQUEST_FINGERPRINTER_IMPLEMENTATION",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "REQUEST_FINGERPRINTER_IMPLEMENTATION = \"2.7\"\nTWISTED_REACTOR = \"twisted.internet.asyncioreactor.AsyncioSelectorReactor\"\nFEED_EXPORT_ENCODING = \"utf-8\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWISTED_REACTOR",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "TWISTED_REACTOR = \"twisted.internet.asyncioreactor.AsyncioSelectorReactor\"\nFEED_EXPORT_ENCODING = \"utf-8\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    },
+    {
+        "label": "FEED_EXPORT_ENCODING",
+        "kind": 5,
+        "importPath": "scrap_tests.settings",
+        "description": "scrap_tests.settings",
+        "peekOfCode": "FEED_EXPORT_ENCODING = \"utf-8\"",
+        "detail": "scrap_tests.settings",
+        "documentation": {}
+    }
+]

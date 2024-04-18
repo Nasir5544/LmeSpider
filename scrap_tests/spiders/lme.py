@@ -3,8 +3,6 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import NoSuchElementException
-from scrapy_selenium import SeleniumRequest
 
 class LmeSpider(scrapy.Spider):
     custom_settings = {
@@ -18,8 +16,7 @@ class LmeSpider(scrapy.Spider):
     name = "lme_spider"
     start_urls = [
         "https://google.com",
-        "https://www.lme.com/en/news",
-        #"https://www.lme.com/en/news?page=2"
+        "https://www.lme.com/en/news"
     ]
 
     download_directory = "C:/Users/muham/Downloads/scrapdata"
@@ -50,11 +47,11 @@ class LmeSpider(scrapy.Spider):
 
         for url in self.start_urls:
             driver.get(url)
-            yield SeleniumRequest(url=url, callback=self.parse, meta={"driver": driver})
+            yield scrapy.Request(url, self.parse, meta={"driver": driver})
 
     def parse(self, response):
         driver = response.meta["driver"]
-
+        
         # Wait for the elements to be present
         WebDriverWait(driver, 100).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, 'li.search-listing__item')))
 
@@ -80,10 +77,11 @@ class LmeSpider(scrapy.Spider):
             print(tags)
             print(file_element)
             # download file
-            # download_url = file_element.get_attribute('href')
-            # driver.get(download_url)
-
-        # Click on the next button if available
+            download_url = file_element.get_attribute('href')
+            driver.get(download_url)
+            
+            
+            # Click on the next button if available
             #next_page = response.xpath('//a[contains(@class, "pagination__link--next")]/@href').get()
             #next_page = response.xpath('//svg[contains(@class, "pagination__icon--next")]/ancestor::a/@href').getall()
 
@@ -91,8 +89,6 @@ class LmeSpider(scrapy.Spider):
              #next_page_url = response.urljoin(next_page)
              #yield scrapy.Request(next_page_url, callback=self.parse, meta={"driver": driver})
              #print(next_page)
-             
-        
 
         # Close the Selenium WebDriver
         driver.quit()

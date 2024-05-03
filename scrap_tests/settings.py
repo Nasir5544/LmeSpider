@@ -28,7 +28,7 @@ ROBOTSTXT_OBEY = True
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
 
-# DOWNLOAD_DELAY = 3
+#DOWNLOAD_DELAY = 5
 
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
@@ -104,3 +104,16 @@ ITEM_PIPELINES = {
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
+
+
+#REDIS_START_URLS_KEY = '%(name)s:start_urls'
+
+
+# Enables scheduling storing requests queue in redis.
+#SCHEDULER = "scrapy_redis.scheduler.Scheduler"
+
+# Ensure all spiders share same duplicates filter through redis.
+#DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
+
+# Redis Connection URL
+#REDIS_URL = 'redis://default:QoXPc9gnci5QELoYThRX1RkRHZjyl7jp@redis-13281.c326.us-east-1-3.ec2.cloud.redislabs.com:13281'
